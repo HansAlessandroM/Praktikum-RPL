@@ -1,0 +1,5 @@
+ - Monolitik merupakan pilihan yang tepat untuk aplikasi kecil dan sederhana. SOA dapat menjadi pilihan yang baik untuk sistem perusahaan yang kompleks yang membutuhkan skalabilitas dan fleksibilitas. Microservices ideal untuk aplikasi yang membutuhkan skalabilitas dan fleksibilitas yang tinggi, tetapi juga memerlukan kompleksitas dan overhead yang lebih tinggi.
+
+ - Kesimpulan dari perbedaan SOA dan MSA adalah bahwa SOA dan MSA memiliki pendekatan yang berbeda dalam membangun arsitektur perangkat lunak. SOA lebih cocok untuk organisasi besar dan kompleks, sementara MSA lebih cocok untuk organisasi kecil hingga menengah yang ingin mengembangkan aplikasi yang lebih mudah, cepat, dan efisien.
+
+
